@@ -7,9 +7,6 @@ from datetime import datetime, timedelta
 
 
 class Puzzle(Base):
-  """
-  자유게시판 글
-  """
 
   __tablename__ = 'puzzles'
 
